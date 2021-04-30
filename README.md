@@ -2,7 +2,7 @@
 - 👀 I’m interested in aerospace engineering
 - 🌱 I’m currently learning Autopilot systems
 - 💞️ I’m looking to collaborate on Ardupilot project
-- 📫 How to reach me ...
+- 📫 How to reach me bayati1999zz@gmail.com
 
 <!---
 zakiehbayati/zakiehbayati is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
